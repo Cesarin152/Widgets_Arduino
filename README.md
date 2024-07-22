@@ -113,5 +113,4 @@ void loop() {
 }
 ```
 
-## Conclusión
-La librería `Widgets` proporciona un conjunto completo de herramientas para crear pantallas interactivas e informativas en pantallas OLED. Con su variedad de widgets y animaciones, puede mejorar cualquier proyecto que requiera una interfaz visual. Siéntete libre de explorar y expandir estos ejemplos para adaptarlos a tus necesidades.
+
